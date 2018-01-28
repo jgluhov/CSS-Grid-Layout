@@ -1,0 +1,14 @@
+{
+  "name": "css-grid-layout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel -p 3000 ./src/index.html"
+  },
+  "repository": "https://github.com/jgluhov/CSS-Grid-Layout.git",
+  "author": "Evgeny Glukhov <jgluhov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
