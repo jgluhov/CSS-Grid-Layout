@@ -10,12 +10,4 @@ body {
     display: grid;
     height: 100vh;
     grid-gap: 30px;
-
-    grid-template-columns: 
-        minmax(min-content, 1fr) 
-        minmax(100px, 4fr);
-
-    > * {
-        background-color: blueviolet;
-    }
 }
